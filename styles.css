@@ -1,13 +1,8 @@
 *{
     background-color: #1f2937;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
 }
-
-/* header{
-    display: flex;
-    flex-direction: column;
-    
-} */
 
 .logo{
     width: 100px;
@@ -16,12 +11,12 @@
     color: #f5f5f5;
 }
 
+
 header{
     display:flex;
     justify-content: space-between;
+    align-items: center;
 }
-
-
 
 ul, a{
     list-style: none;
@@ -32,4 +27,6 @@ ul, a{
     display: flex;
     gap: 18px;
 }
+
+
 
