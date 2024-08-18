@@ -105,13 +105,31 @@ ul, a{
     margin-bottom: 100px;
 }
 
+
 .quotes{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.stick{
+    margin-bottom: 100px;
+}
+ /* .stick{
+display: flex;
+flex-direction: column;
+justify-content: center;
+    
+}  */
+/* .quotes{
 
     em{
         font-size: 36px;
         color: #1F2937;
     }
-}
+} */
 
 
 /* .second{
