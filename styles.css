@@ -117,6 +117,35 @@ ul, a{
 .stick{
     margin-bottom: 100px;
 }
+
+.container{
+    background-color: #fff;
+    justify-content: center;
+
+    .blue{
+        width: 50%;
+        background-color: #3882f6;
+         margin-top: 50px;
+        margin-bottom: 50px; 
+        display: flex;
+        justify-content: space-between;
+        align-items: center;    
+        border-radius: 6px;
+        color: #f5f5f5;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .bott{
+        border: 1px solid #fff;
+        background-color: #3882f6;
+        color: #f5f5f5;font-weight: 600;
+        padding: 5px 15px ;
+        border-radius: 10px;
+    }
+    /* .pit{
+        color: #f5f5f5;
+    } */
+}
  /* .stick{
 display: flex;
 flex-direction: column;
