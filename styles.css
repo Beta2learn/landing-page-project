@@ -58,20 +58,13 @@ ul, a{
 
 }
 
- .secone, .one{ 
+.secone, .one{ 
     width: 450px;
 } 
 
 .secone{
     height: 250px;
 }
- /* .one{
-    width: 400px;
- }
- .secone{
-    width: 450px;
-    height: 250px;
- } */
 
 .star{
     margin: 50px;
